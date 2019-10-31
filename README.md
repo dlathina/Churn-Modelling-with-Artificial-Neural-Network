@@ -19,4 +19,4 @@ The dataset is contained by
 With ANN we can predict a customer will/will not leave the bank. 
 First you can file for making a model [here](https://github.com/dlathina/Churn-Modelling-with-Artificial-Neural-Network/blob/master/ANN-exercise.ipynb).
 Then, I evaluate the model [here](https://github.com/dlathina/Churn-Modelling-with-Artificial-Neural-Network/blob/master/Evaluating_ANN_exercise_GoogleColab.ipynb). I suggest you to run the program with Colab. 
-The last, I make Tuning for the model [here](). 
+The last, I make Tuning for the model [here](https://github.com/dlathina/Churn-Modelling-with-Artificial-Neural-Network/blob/master/Tuning(2)_ANN_exercise_GoogleColab.ipynb). 
